@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+a:link, a:visited {
+    text-decoration: none;
+}
+a:link {
+    color: #98726c;
+}
+a:visited {
+    color: #c39570;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active, a:hover {
+    color: #98726c;
+}
+body {
+    div {
+    background: linear-gradient(to bottom, #ff5050 0%, #ff99cc 100%);
+}
+    color: white;
+    font-size: 12pt;
+    margin: 36px;
+    width: auto;
+}
+div {
+    color: #98726c;
+}
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.fixed-bottom {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1030;
+}
