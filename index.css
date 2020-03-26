@@ -15,10 +15,8 @@ a:active, a:hover {
     color: #98726c;
 }
 body {
-    div {
-    background: linear-gradient(to bottom, #ff5050 0%, #ff99cc 100%);
-}
-    color: white;
+    background-color: #e9edf5;
+    color: black;
     font-size: 12pt;
     margin: 36px;
     width: auto;
